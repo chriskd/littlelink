@@ -611,3 +611,16 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* PGP Key */
+.button-pgp-key {
+    --button-text: #ffffff;
+    --button-background: #eb546c;
+}
+
+/* Author Page */
+.button-author-page {
+    --button-text: #000000;
+    --button-background: #dae7e9;
+    --button-border: 1px solid #000000;
+}
