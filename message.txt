@@ -1,0 +1,3 @@
+This is the official PGP key for Chris Dehghanpoor (chrisd9r).
+Website: https://chriskd.me
+Key fingerprint: 96CF 4556 98FE 5CBE E7FB  E19F 42AB 6CDC 9739 1769
