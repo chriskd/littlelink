@@ -632,7 +632,7 @@
 }
 
 /* Got a tip? */
-.button-got-a-tip- {
+.button-got-a-tip {
     --button-text: #ffffff;
     --button-background: #cd4536;
 }
