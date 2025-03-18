@@ -624,3 +624,9 @@
     --button-background: #dae7e9;
     --button-border: 1px solid #000000;
 }
+
+/* chrisd9r@protonmail.com */
+.button-chrisd9r-pm-me {
+    --button-text: #ffffff;
+    --button-background: #8a8fc1;
+}
