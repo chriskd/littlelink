@@ -78,6 +78,9 @@
             <!-- All your buttons go here -->
             <div class="button-stack" role="navigation">
 
+              <!-- Got a tip? -->
+              <a class="button button-got-a-tip-" href="#" id="tip-button" role="button"><img class="icon" aria-hidden="true" src="images/icons/tip.svg" alt="Got a tip? icon">Got a tip?</a>
+
               <!-- WaPo Author Page -->
               <a class="button button-wapo-author-page" href="https://www.washingtonpost.com/people/chris-dehghanpoor/" target="_blank" rel="noopener" role="button"><img class="icon" aria-hidden="true" src="images/icons/wp.svg" alt="WaPo Author Page icon">WaPo Author Page</a>
 
@@ -147,9 +150,22 @@
     </div>
   </div>
 
+  <!-- Tip Modal -->
+  <div id="tip-modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h2>Got a Tip?</h2>
+      <div id="tip-content" class="tip-content">
+        <!-- Content will be loaded from tip-content.js -->
+      </div>
+    </div>
+  </div>
+
   <!-- JavaScript files -->
   <script src="js/pgp-content.js"></script>
   <script src="js/pgp-modal.js"></script>
+  <script src="js/tip-content.js"></script>
+  <script src="js/tip-modal.js"></script>
 </body>
 
 </html>

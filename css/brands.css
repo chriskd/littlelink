@@ -630,3 +630,9 @@
     --button-text: #ffffff;
     --button-background: #8a8fc1;
 }
+
+/* Got a tip? */
+.button-got-a-tip- {
+    --button-text: #ffffff;
+    --button-background: #cd4536;
+}
